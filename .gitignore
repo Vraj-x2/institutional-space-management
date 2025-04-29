@@ -1,0 +1,28 @@
+# Node modules (React project inside frontend/Faculty dashboard/)
+frontend/Faculty dashboard/node_modules/
+
+# Build output (React)
+frontend/Faculty dashboard/build/
+
+# IDE files (IntelliJ, VSCode, Eclipse)
+*.iml
+.idea/
+.vscode/
+*.log
+
+# Maven/Java build output (Spring Boot project inside backend/capstone_backend_java/)
+backend/capstone_backend_java/target/
+
+# Maven wrapper files (optional, safe to ignore)
+backend/capstone_backend_java/.mvn/
+backend/capstone_backend_java/mvnw
+backend/capstone_backend_java/mvnw.cmd
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment files (optional secrets)
+.env
+frontend/Faculty dashboard/.env
+backend/capstone_backend_java/.env
