@@ -68,10 +68,10 @@ Backend runs on: `http://localhost:8080`
 ```bash
 cd frontend/"Faculty dashboard"
 npm install
-npm start
+npm run dev
 ```
 
-Frontend runs on: `http://localhost:3000`
+Frontend runs on: `http://localhost:5713`
 
 ---
 
